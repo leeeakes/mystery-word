@@ -2,7 +2,9 @@
 
 ## Description
 
-Implement the game of Mystery Word.
+This is a game of Mystery Word. Choose your difficutly level and you will
+get a word with the letters hidden from view. Guess a letter each turn until
+you run out of turn or you fill in the blanks with correct letters.
 
 ## Objectives
 
